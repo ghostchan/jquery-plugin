@@ -1,5 +1,5 @@
 /**
- * Created by hxd on 2017/3/7.
+ * Created on 2017/3/7.
  */
 /*eslint-disable */
 (function ($) {
